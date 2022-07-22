@@ -1,5 +1,6 @@
 # gRPC-Web: Typed Frontend Development
-
+This is patched fork from [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web)
+Patch removes web-socket compression due IOS 15 problems
 
 [![CircleCI](https://circleci.com/gh/improbable-eng/grpc-web/tree/master.svg?style=svg)](https://circleci.com/gh/improbable-eng/grpc-web/tree/master)
 [![Sauce Test Status](https://app.saucelabs.com/buildstatus/ImprobableEngBot)](https://app.saucelabs.com/u/ImprobableEngBot)
